@@ -27,3 +27,8 @@ Scripts used by the guides live in `../scripts/` and are copied to the server at
 |---|---|
 | [runbook.md](runbook.md) | How everything was installed, backup and restore, migrations done so far, rollback steps, Coolify quirks |
 | [coolify-s3-policy.json](coolify-s3-policy.json) | The IAM policy for the backup user (bucket-only) |
+
+
+
+testing exposing api key
+KEYGUARD_REMOVED_KEYGUARD_KEY
