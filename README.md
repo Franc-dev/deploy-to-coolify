@@ -29,6 +29,3 @@ Scripts used by the guides live in `../scripts/` and are copied to the server at
 | [coolify-s3-policy.json](coolify-s3-policy.json) | The IAM policy for the backup user (bucket-only) |
 
 
-
-testing exposing api key
-KEYGUARD_REMOVED_KEYGUARD_KEY
