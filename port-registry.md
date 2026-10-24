@@ -19,6 +19,7 @@ ss -tlnp | grep ':34[0-9][0-9] '     # nothing printed = the 34xx range is free
 | Port | App | Coolify project / resource | Domain |
 |---|---|---|---|
 | 3400 | *(example, keep free)* | | |
+| 3401 | Mitsumi AI Store (web) | Mitsumi AI Store / mitsumi-ai-store (`bila75u0o0dymgqynvpktvyy`) | aistore.102.210.173.202.sslip.io |
 
 ## Already in use (2026-09-25; `ss -tlnp` is the source of truth)
 
